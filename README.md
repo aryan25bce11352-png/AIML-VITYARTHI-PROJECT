@@ -1,5 +1,5 @@
-# AIML-VITYARTHI-PROJECT-25-NOV
-AIML VITYARTHI PROJECT 25 NOV
+# AIML-VITYARTHI-PROJECT
+AIML VITYARTHI PROJECT
  🚽 Plum-Bot: Plumbing Diagnosis Expert System
 
 Plum-Bot is a simple **Prolog-based expert system** designed to diagnose common residential plumbing problems and recommend a step-by-step action plan for fixing them.
